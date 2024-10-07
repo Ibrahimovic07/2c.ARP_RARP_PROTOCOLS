@@ -1,5 +1,7 @@
 # EX 2c.SIMULATING ARP /RARP PROTOCOLS
 
+## name : MOHAMMED IBRAHIM MN 
+## REG NO : 212223100034
 
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
